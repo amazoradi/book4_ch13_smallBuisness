@@ -1,0 +1,93 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Bob Belcher",
+      "departmentID": 1,
+      "computerID": 2
+    },
+    {
+      "id": 2,
+      "name": "Michael Scott",
+      "departmentID": 2,
+      "computerID": 3
+    },
+    {
+      "id": 3,
+      "name": "James Bond",
+      "departmentID": 5,
+      "computerID": 5
+    },
+    {
+      "id": 4,
+      "name": "Toby Flenderson",
+      "departmentID": 4,
+      "computerID": 1
+    },
+    {
+      "id": 5,
+      "name": "Jim Halpert",
+      "departmentID": 3,
+      "computerID": 4
+    }
+  ],
+  "departments": [
+    {
+      "id": 1,
+      "name": "Food Prep",
+      "location": "kitchen"
+    },
+    {
+      "id": 2,
+      "name": "Management",
+      "location": "corner office"
+    },
+    {
+      "id": 3,
+      "name": "Sales",
+      "location": "cubicle city"
+    },
+    {
+      "id": 4,
+      "name": "HR",
+      "location": "the far back windowless room"
+    },
+    {
+      "id": 5,
+      "name": "Janitorial",
+      "location": "sad little closet"
+    }
+  ],
+  "computers": [
+    {
+      "id": 1,
+      "name": "Dell sleakBook",
+      "serialNumber": 12434324,
+      "year": 2017
+    },
+    {
+      "id": 2,
+      "name": "Mac PriceBook",
+      "serialNumber": 66609001,
+      "year": 2019
+    },
+    {
+      "id": 3,
+      "name": "Generic Off-brand PC",
+      "serialNumber": 50921234,
+      "year": 2015
+    },
+    {
+      "id": 4,
+      "name": "MicroSoft MegaHard",
+      "serialNumber": 88811124,
+      "year": 2014
+    },
+    {
+      "id": 5,
+      "name": "Dolar Chromebook",
+      "serialNumber": 11124111,
+      "year": 2017
+    }
+  ]
+}
